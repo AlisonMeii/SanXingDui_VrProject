@@ -19,3 +19,35 @@
   It is both an instrument of access to the heavens and a symbol of the community
 - Bronze Human-Faced Bird  
   lt fills in the missinglink between thebronze free and thelongitudinal masks
+- Bronze Standing Figure  
+  Mysfical sorcerer. He plays the roleof the main Priest.
+- Kneeling Portrait  
+  Multiple people in columnsor rows are highly uniformin their mavements.He plays the role of theAuxiliary Priest.
+
+## 1.2 Insiration Transform
+&emsp;&emsp;The following mind maps are a great way to show the shifts in our inspiration
+
+## 1.3 Define
+&emsp;&emsp;Based on the research foundation mentionedearlier, We have designed the exhibition whilemaintaining historical accuracy.
+- Exhibition theme:  
+  Sanxingdui rituals
+  Divine Cognition
+- Exhibition type:  
+  Multi-modal situational interactive exhibitsFirst person VR exhibition.
+- Visitor persona:  
+  An Archaeology Enthusias who traveled after mistakenly entering the ruins and was knowledgeable and interested in Sanxingdui culture.
+
+## 1.4 Ideation
+&emsp;&emsp;We have three main scenarios in the game.Below we've organized the design and narrative of the sub-scenario and the flow of the experience through a flowchart.  
+# 2. Interaction System & Technological Route
+## 2.1 Workflows
+&emsp;&emsp;We completed the modelling and development according to standard workflows.
+## 2.2 Modelling & Codding
+### 2.2.1 Scene 1
+&emsp;&emsp;The main functions completed are as follows：
+- Modelling sand particle effects with systems
+- Textbox guidance by using UI system
+- Glow and sound when transforming between scenes
+
+ 
+
