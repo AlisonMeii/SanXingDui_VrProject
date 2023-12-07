@@ -48,6 +48,23 @@
 - Modelling sand particle effects with systems
 - Textbox guidance by using UI system
 - Glow and sound when transforming between scenes
+- We put the statue we made into the scene
+### 2.2.2 Scene 2
+&emsp;&emsp;The main functions completed are as follows：
+- We upgraded the project to URP for amore beautiful, realistic water effect
+- Mini-map guide
+- Movement of the boat
+- Two alternative open-ended endings.One of the endings is to visit the ancient inhabitants and the other is to participate in the rituals
+- Plays can pass the ivory to the main Priest
+- Trigger transition animation when scene jumps
+### 2.2.3 Scene 3
+&emsp;&emsp;The main functions completed are as follows：
+- Presentation of artefacts through UI
+- 360-degree artefact display
+- Click to trigger the voice narration
+# 3. Presentation of final results
+&emsp;&emsp;The followings are the actual results of the developed version.
+
 
  
 
