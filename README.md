@@ -1,5 +1,5 @@
 # Abstruct
-&emsp;&emsp;This project is a VR virtual museum project based on Unity and Pico. With the help of the real topographical map of Sanxingdui, we planned a special VR immersive museum exhibition with the theme of "Man and God: Sacrifice and Divine Cognition in Sanxingdui Culture". The aim is to let modern people understand the ancient people's examination and thinking about the relationship between human beings and gods through the simulation of the sacrificial scenes of China's Sanxingdui civilization, as well as their exploration of self-exploration. As well as their exploration of self-exploration. Through the virtual museum, we hope to popularize the cultural relics and culture of Sanxingdui, so that people can better understand the this civilization.(DemoVideo:https://youtu.be/Dkqfabv9YPg)    
+&emsp;&emsp;This project is a VR virtual museum project based on Unity and Pico. With the help of the real topographical map of Sanxingdui, we planned a special VR immersive museum exhibition with the theme of "Man and God: Sacrifice and Divine Cognition in Sanxingdui Culture". The aim is to let modern people understand the ancient people's examination and thinking about the relationship between human beings and gods through the simulation of the sacrificial scenes of China's Sanxingdui civilization, as well as their exploration of self-exploration. Through the virtual museum, we hope to popularize the cultural relics and culture of Sanxingdui, so that people can better understand the this civilization.(DemoVideo:https://youtu.be/Dkqfabv9YPg)    
 <p align="center"><strong>"In ancient times, God was high and mighty and man was small;</strong></p>
 <p align="center"><strong>nowadays there is no longer any belief in God and man is the master of the world."</strong></p>
 <div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/Abstruct.png?raw=true"/></div>
@@ -32,7 +32,7 @@
 <div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/Mindmap.png?raw=true"/></div>
 
 ## 1.3 Define
-&emsp;&emsp;Based on the research foundation mentionedearlier, We have designed the exhibition whilemaintaining historical accuracy.
+&emsp;&emsp;Based on the research foundation mentioned earlier, We have designed the exhibition while maintaining historical accuracy.
 - Exhibition theme:  
   Sanxingdui rituals
   Divine Cognition
@@ -53,10 +53,10 @@
 ## 2.2 Modelling & Codding
 ### 2.2.1 Scene 1
 &emsp;&emsp;The main functions completed are as follows：
-- Modelling sand particle effects with systems
-- Textbox guidance by using UI system
+- Modelling sand particle effects with particle systems
+- Finishing a textbox guidance by using UI system
 - Glow and sound when transforming between scenes
-- We put the statue we made into the scene
+- We put the 3D modles we made into the scene
 ### 2.2.2 Scene 2
 &emsp;&emsp;The main functions completed are as follows：
 - We upgraded the project to URP for amore beautiful, realistic water effect
