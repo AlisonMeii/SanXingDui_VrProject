@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c9ee3a96459e80541a4914f182e09ed6
+timeCreated: 1491239850
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _GlassRefraction: {fileID: 2800000, guid: 0f34b93ee6f9c2c4a9a2af5695cd6e4b, type: 3}
+  - _CUBEMAPnotHDR: {fileID: 8900000, guid: 73f933ed92eda704999b531f67c3b1b2, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

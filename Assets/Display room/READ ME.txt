@@ -1,0 +1,4 @@
+To get optimal visual quality, you will need to import the free assets from unity : Post processing stack, available here on the store : https://www.assetstore.unity3d.com/en/#!/content/83912
+
+If you want to get the reflection on the ground + the ambiant occlusion working, you also will have to switch to the deffered rendering path. Go to : Edit -> Project Settings -> Graphics. Then change the rendering path from forward to deffered.
+

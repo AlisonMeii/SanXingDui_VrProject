@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!121 &12100000
+Flare:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sunset_Flare_2X3
+  m_FlareTexture: {fileID: 2800000, guid: aa4bd42a460efae44b80a9b23eb76478, type: 3}
+  m_TextureLayout: 3
+  m_Elements:
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 52.7
+    m_Color: {r: 1, g: 1, b: 1, a: 0}
+    m_UseLightColor: 1
+    m_Rotate: 1
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 2
+    m_Position: 1.2
+    m_Size: 36.6
+    m_Color: {r: 0.487, g: 0.487, b: 0.487, a: 0}
+    m_UseLightColor: 1
+    m_Rotate: 0
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 3
+    m_Position: 2.43
+    m_Size: 206.7
+    m_Color: {r: 1, g: 1, b: 1, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 84.1
+    m_Color: {r: 1, g: 1, b: 1, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 84.1
+    m_Color: {r: 1, g: 1, b: 1, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 1
+    m_Fade: 1
+  - m_ImageIndex: 0
+    m_Position: 0
+    m_Size: 84.1
+    m_Color: {r: 1, g: 1, b: 1, a: 0}
+    m_UseLightColor: 0
+    m_Rotate: 1
+    m_Zoom: 1
+    m_Fade: 1
+  m_UseFog: 1
