@@ -9,7 +9,6 @@
 ### 1.1.1 God and Man
 &emsp;&emsp;The worship of God is one of the great divisions between man in the state of natureand man in the state of culture.The way to worship these deities ismainly to offer sacrifices and prayer.through rituals, so that the deities willcome down and pray for theirprotection or for their blessings tocome down to the people.  
 &emsp;&emsp;Sanxingdui artifacts are mainly used for rituals; humanfaced artifacts are transformed from human faces andmorphed by incorporating imagery of the gods
-<div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/B&R.png?raw=true"/></div>
 
 ### 1.1.2 About Sanxingdui Museum
 &emsp;&emsp;The Sanxingdui Museum is a large and modern themed archaeological museumin China. As a native of Sichuan, I have visited Sanxingdui more than once, and inthe course of completing the project, I have also revisited and decided to selectSanxingdui Museum as the museum body and cultural carrier of my virtualexhibition hall
