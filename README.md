@@ -14,7 +14,7 @@
 ### 1.1.2 About Sanxingdui Museum
 &emsp;&emsp;The Sanxingdui Museum is a large and modern themed archaeological museum in China. As a native of Sichuan, I have visited Sanxingdui more than once, and in the course of completing the project, I have also revisited and decided to select Sanxingdui Museum as the museum body and cultural carrier of my virtual exhibition hall.
 
-### 1.1.3 About Process Of Sanxingdui Rituals
+### 1.1.3 About Process of Sanxingdui Rituals
 &emsp;&emsp;In the oracle bone divination records, the sacrificial activities of the Shang Dynasty people 3,000 years ago were conducted in a solemn and grand atmosphere.  
 - Bronze Beast  
   Representing a variety of nature deifies,allowing people to welcome the gods in as moky atmosphere of worship.
