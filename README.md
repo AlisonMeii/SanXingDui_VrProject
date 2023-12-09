@@ -28,7 +28,7 @@
 
 ## 1.2 Insiration Transform
 &emsp;&emsp;The following mind maps are a great way to show the shifts in our inspiration
-<div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/Mindmap.png?raw=true"/></div>
+<div align=center><img src=""/></div>
 
 ## 1.3 Define
 &emsp;&emsp;Based on the research foundation mentioned earlier, We have designed the exhibition while maintaining historical accuracy.
