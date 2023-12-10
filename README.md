@@ -1,5 +1,5 @@
 # Abstruct
-&emsp;&emsp;This project is a VR virtual museum project based on Unity and Pico. With the help of the real topographical map of Sanxingdui, we planned a special VR immersive museum exhibition with the theme of "Man and God: Sacrifice and Divine Cognition in Sanxingdui Culture". The aim is to let modern people understand the ancient people's examination and thinking about the relationship between human beings and gods through the simulation of the sacrificial scenes of China's Sanxingdui civilization, as well as their exploration of self-exploration. Through the virtual museum, we hope to popularize the cultural relics and culture of Sanxingdui, so that people can better understand the this civilization.(DemoVideo:https://youtu.be/Dkqfabv9YPg)    
+&emsp;&emsp;This project is a **VR virtual museum project** based on **Unity** and **Pico**. With the help of the real topographical map of Sanxingdui, we planned a special VR immersive museum exhibition with the theme of "Man and God: Sacrifice and Divine Cognition in Sanxingdui Culture". The aim is to let modern people understand the ancient people's examination and thinking about the relationship between human beings and gods through the simulation of the sacrificial scenes of China's Sanxingdui civilization, as well as their exploration of self-exploration. Through the virtual museum, we hope to popularize the cultural relics and culture of Sanxingdui, so that people can better understand the this civilization.(DemoVideo:https://youtu.be/Dkqfabv9YPg)    
 <p align="center"><strong>"In ancient times, God was high and mighty and man was small;</strong></p>
 <p align="center"><strong>nowadays there is no longer any belief in God and man is the master of the world."</strong></p>
 <div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/Abstruct.png?raw=true"/></div>
@@ -12,19 +12,28 @@
 <div align=center><img width="400" height="300" src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/new%20B&R.png?raw=true"/></div>
 
 ### 1.1.2 About Sanxingdui Museum
-&emsp;&emsp;The Sanxingdui Museum is a large and modern themed archaeological museum in China. As a native of Sichuan, I have visited Sanxingdui more than once, and in the course of completing the project, I have also revisited and decided to select Sanxingdui Museum as the museum body and cultural carrier of my virtual exhibition hall.
+
+
+<img align="right" width="200" src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/me.png?raw=true"/>
+
+&emsp;&emsp;
+&emsp;&emsp;The Sanxingdui Museum is a large and modern themed archaeological museum in China. As a native of Sichuan, I have visited Sanxingdui more than once, and in the course of completing the project, I have also revisited and decided to select Sanxingdui Museum as the museum body and cultural carrier of my virtual exhibition hall.  
+&emsp;&emsp;The establishment of the Sanxingdui Museum has reacquainted people with the culture of Ba Shu and changed the viewpoints of the historiography. The Sanxingdui Museum and its ruins have proved that it should be an important cultural centre in China before and after the Xia and Shang periods, or even earlier, and has a certain connection with the culture of the Central Plains, which verifies the authenticity of the records of the ancient Shu State in ancient documents.
+
+&emsp;&emsp;
+
 
 ### 1.1.3 About Process of Sanxingdui Rituals
 &emsp;&emsp;In the oracle bone divination records, the sacrificial activities of the Shang Dynasty people 3,000 years ago were conducted in a solemn and grand atmosphere.  
-- Bronze Beast  
+- **Bronze Beast**    
   Representing a variety of nature deifies,allowing people to welcome the gods in as moky atmosphere of worship.
-- Bronze Holy Tree  
+- **Bronze Holy Tree**    
   It is both an instrument of access to the heavens and a symbol of the community
-- Bronze Human-Faced Bird  
+- **Bronze Human-Faced Bird**    
   lt fills in the missinglink between thebronze free and the longitudinal masks
-- Bronze Standing Figure  
+- **Bronze Standing Figure**    
   Mysfical sorcerer. He plays the role of the main Priest.
-- Kneeling Portrait  
+- **Kneeling Portrait**    
   Multiple people in columnsor rows are highly uniformin their mavements.He plays the role of the Auxiliary Priest.
 
 ## 1.2 Insiration Transform
@@ -33,13 +42,13 @@
 
 ## 1.3 Define
 &emsp;&emsp;Based on the research foundation mentioned earlier, We have designed the exhibition while maintaining historical accuracy.
-- Exhibition theme:  
+- **Exhibition theme:**   
   Sanxingdui rituals
   Divine Cognition
-- Exhibition type:  
+- **Exhibition type:**    
   Multi-modal situational interactive exhibits
   First person VR exhibition.
-- Visitor persona:  
+- **Visitor persona:**    
   An Archaeology Enthusias who traveled after mistakenly entering the ruins and was knowledgeable and interested in Sanxingdui culture.
 
 ## 1.4 Ideation
@@ -51,23 +60,20 @@
 &emsp;&emsp;We completed the modelling and development according to standard workflows.
 <div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/Workflows.png?raw=true"/></div>
 
-## 2.2 Modelling & Codding
-### 2.2.1 Scene 1
-&emsp;&emsp;The main functions completed are as follows：
+## 2.2 Functional Realisation
+### Scene 1
 - Modelling sand particle effects with particle systems
 - Finishing a textbox guidance by using UI system
 - Glow and sound when transforming between scenes
 - We put the 3D modles we made into the scene
-### 2.2.2 Scene 2
-&emsp;&emsp;The main functions completed are as follows：
+### Scene 2
 - We upgraded the project to URP for a more beautiful, realistic water effect
 - Mini-map guide
 - Movement of the boat
 - Two alternative open-ended endings.One of the endings is to visit the ancient inhabitants and the other is to participate in the rituals
 - Players can pass the ivory to the main Priest
 - Trigger transition animation when scene jumps
-### 2.2.3 Scene 3
-&emsp;&emsp;The main functions completed are as follows：
+### Scene 3
 - Presentation of artefacts through UI
 - 360-degree artefact display
 - Click to trigger the voice narration
