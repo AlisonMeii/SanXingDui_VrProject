@@ -16,7 +16,7 @@
 
 <img align="right" width="200" src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/me.png?raw=true"/>
 
-The Sanxingdui Museum is a large and modern themed archaeological museum in China. As a native of Sichuan, I have visited Sanxingdui more than once, and in the course of completing the project, I have also revisited and decided to select Sanxingdui Museum as the museum body and cultural carrier of my virtual exhibition hall.  
+&emsp;&emsp;The Sanxingdui Museum is a large and modern themed archaeological museum in China. As a native of Sichuan, I have visited Sanxingdui more than once, and in the course of completing the project, I have also revisited and decided to select Sanxingdui Museum as the museum body and cultural carrier of my virtual exhibition hall.  
 &emsp;&emsp;The establishment of the Sanxingdui Museum has reacquainted people with the culture of Ba Shu and changed the viewpoints of the historiography. The Sanxingdui Museum and its ruins have proved that it should be an important cultural centre in China before and after the Xia and Shang periods, or even earlier, and has a certain connection with the culture of the Central Plains, which verifies the authenticity of the records of the ancient Shu State in ancient documents.
 
 &emsp;&emsp;
