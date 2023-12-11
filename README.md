@@ -51,7 +51,7 @@
   An Archaeology Enthusias who traveled after mistakenly entering the ruins and was knowledgeable and interested in Sanxingdui culture.
 
 ## 1.4 Ideation
-&emsp;&emsp;We have three main scenarios in the game.Below we've organized the design and narrative of the sub-scenario and the flow of the experience through a flowchart.
+&emsp;&emsp;We have three main scenarios in the game.Below we've organized the design and narrative of the sub-scenario and the flow of the experience through a flowchart.Click on the picture to see the details.
 <div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/scenes.png?raw=true"/></div>
 
 # 2. Interaction System & Technological Route
