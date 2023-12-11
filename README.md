@@ -36,16 +36,16 @@
   Multiple people in columnsor rows are highly uniformin their mavements.He plays the role of the Auxiliary Priest.
 
 ## 1.2 Insiration Transform
-&emsp;&emsp;The following mind maps are a great way to show the shifts in our inspiration
+&emsp;&emsp;The following mind maps are a great way to show the shifts in our inspiration.Click on the picture to see the details.
 <div align=center><img src="https://github.com/AlisonMeii/SanXingDui_VrProject/blob/main/image/new%20mindmap.png?raw=true"/></div>
 
 ## 1.3 Define
 &emsp;&emsp;Based on the research foundation mentioned earlier, We have designed the exhibition while maintaining historical accuracy.
 - **Exhibition theme:**   
-  Sanxingdui rituals
+  Sanxingdui rituals  
   Divine Cognition
 - **Exhibition type:**    
-  Multi-modal situational interactive exhibits
+  Multi-modal situational interactive exhibits  
   First person VR exhibition.
 - **Visitor persona:**    
   An Archaeology Enthusias who traveled after mistakenly entering the ruins and was knowledgeable and interested in Sanxingdui culture.
